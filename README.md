@@ -1,1 +1,2 @@
-# covid_data_exploration_sql
+#Covid data exploration using SQL
+![Project logo]()
